@@ -1,0 +1,8 @@
+{
+  "name": "Dead Zone Combat",
+  "description": "Survive intense waves of soldiers, zombies, and drones in this high-stakes, manual-aiming first-person survival shooter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
